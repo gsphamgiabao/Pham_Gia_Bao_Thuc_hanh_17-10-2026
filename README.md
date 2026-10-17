@@ -11,10 +11,17 @@
 ## KẾT QUẢ THỰC HÀNH
 
 ### 1. Bài 4.9: IT Support Ticket Form
-![IT Support Ticket Form](./screenshots/ITSupportTicketForm.PNG)
+- **Giao diện chính:**
+  ![IT Support Ticket Form](./screenshots/ITSupportTicketForm.PNG)
 
 ### 2. Bài 4.10: Lab Equipment Checkout
-![Lab Equipment Checkout](./screenshots/LabEquipmentCheckout.PNG)
+- **Giao diện chính:**
+  ![Lab Equipment Checkout](./screenshots/LabEquipmentCheckout.PNG)
+- **Kết quả thực thi / Kiểm tra lỗi:**
+  ![Lab Equipment Checkout Result](./screenshots/LabEquipmentCheckout1.PNG)
 
 ### 3. Bài 4.11: Repair Service Tracker
-![Repair Service Tracker](./screenshots/RepairServiceTracker.PNG)
+- **Giao diện chính:**
+  ![Repair Service Tracker](./screenshots/RepairServiceTracker.PNG)
+- **Kết quả thực thi / Kiểm tra lỗi:**
+  ![Repair Service Tracker Result](./screenshots/RepairServiceTracker1.PNG)
