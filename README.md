@@ -10,9 +10,9 @@
 ---
 ## KẾT QUẢ THỰC HÀNH
 
-### 1. Bài 4.9: IT Support Ticket Form
+### 1. Bài 4.9: Clinic Appointment Manager
 - **Giao diện chính:**
-  ![IT Support Ticket Form](./screenshots/ITSupportTicketForm.PNG)
+  ![Clinic Appointment Manager](./screenshots/ClinicAppointmentManager.PNG)
 
 ### 2. Bài 4.10: Lab Equipment Checkout
 - **Giao diện chính:**
